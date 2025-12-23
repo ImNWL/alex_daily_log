@@ -1,0 +1,19 @@
+- [ ] Agent
+  - [X] 入门
+  - [X] MCP/Function call
+  - [ ] Agent框架：LangChain，LangGraph，LangSmith
+  - [ ] Agent评估方法
+  - [ ] Agent设计范式（ing）
+- [ ] RAG
+  - [ ] 入门
+  - [ ] 向量数据库
+  - [ ] RAG具体过程和策略
+- [X] prompt
+- [ ] SFT/RL
+- [ ] 模型基础
+  - [ ] 深度学习入门
+  - [ ] Transform结构
+  - [ ] 模型训练流程
+- [ ] 模型推理
+  - [ ] 蒸馏、剪枝、量化
+- [ ] 前沿知识
