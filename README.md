@@ -1,3 +1,7 @@
+# 2025-12-25
+
+**langchain**：从[langchain官方文档](https://docs.langchain.com/oss/python/langchain/structured-output)学习Core components
+
 # 2025-12-23
 
 **prompt**：学习AI Prompt Engineering Course

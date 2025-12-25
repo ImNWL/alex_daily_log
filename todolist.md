@@ -1,9 +1,9 @@
 - [ ] Agent
   - [X] 入门
   - [X] MCP/Function call
-  - [ ] Agent框架：LangChain，LangGraph，LangSmith
+  - [ ] Agent框架：LangChain，LangGraph，LangSmith (ing)
   - [ ] Agent评估方法
-  - [ ] Agent设计范式（ing）
+  - [ ] Agent设计范式 (ing)
 - [ ] RAG
   - [ ] 入门
   - [ ] 向量数据库
