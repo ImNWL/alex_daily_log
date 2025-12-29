@@ -1,3 +1,11 @@
+# 2025-12-29
+
+**langgraph**：从[langgraph介绍推文](https://mp.weixin.qq.com/s/XhFbLTLcSjDj0r3KGT9EOg)学习langgraph概念
+
+**Agentic Design Patterns**: 学习Chapter 8: Memory Management (记忆管理)： 标短期和长期记忆管理，维持上下文连续性
+
+**Agentic Design Patterns**: 学习Chapter 10: Model Context Protocol (模型上下文协议)： 标准化交互协议，规范智能体通信方式。补充学习资料[Function Calling & MCP](https://blog.csdn.net/m0_59163425/article/details/147232157)
+
 # 2025-12-25
 
 **langchain**：从[langchain官方文档](https://docs.langchain.com/oss/python/langchain/structured-output)学习Core components
