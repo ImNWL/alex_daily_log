@@ -1,3 +1,9 @@
+# 2026-01-05
+
+**offer多多**：学习Agent章节
+
+**offer多多**：学习谷歌论文[Towards a Science of Scaling Agent Systems](https://arxiv.org/pdf/2512.08296v1)，笔记见[1_Towards.md](https://github.com/ImNWL/alex_daily_log/blob/master/%E7%AC%94%E8%AE%B0/1_Towards.md)
+
 # 2025-12-29
 
 **langgraph**：从[langgraph介绍推文](https://mp.weixin.qq.com/s/XhFbLTLcSjDj0r3KGT9EOg)学习langgraph概念
