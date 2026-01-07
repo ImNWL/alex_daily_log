@@ -1,16 +1,27 @@
+# 2026-01-07
+
+**《Agentic Design Patterns》**: 学习Chapter 19: Evaluation and Monitoring (评估与监控)： 性能评估体系，量化智能体表现
+
+**RAG相关**：学习博客 [Using DeepSeek R1 for RAG: Do's and Don'ts](https://blog.skypilot.co/deepseek-rag/)以及[相关讨论](https://www.reddit.com/r/LocalLLaMA/comments/1iyun6z/using_deepseek_r1_for_rag_dos_and_donts/?tl=zh-hans), TLDR: 我们用DeepSeek-R1做了个开源RAG，以下是我们的经验总结：
+1.别用DeepSeek R1来检索。 用专门的embedding模型，Qwen的embedding模型超赞。 
+2.用R1来生成答案，它的推理能力杠杠的。 
+3.用vLLM和SkyPilot能提升5倍性能，扩展100倍规模。
+
+**《大模型RAG实战》**：学习RAG基础
+
 # 2026-01-05
 
-**offer多多**：学习Agent章节
+**《offer多多》**：学习Agent章节
 
-**offer多多**：学习谷歌论文[Towards a Science of Scaling Agent Systems](https://arxiv.org/pdf/2512.08296v1)，笔记见[1_Towards.md](https://github.com/ImNWL/alex_daily_log/blob/master/%E7%AC%94%E8%AE%B0/1_Towards.md)
+**《offer多多》**：学习谷歌论文[Towards a Science of Scaling Agent Systems](https://arxiv.org/pdf/2512.08296v1)，笔记见[1_Towards.md](https://github.com/ImNWL/alex_daily_log/blob/master/%E7%AC%94%E8%AE%B0/1_Towards.md)
 
 # 2025-12-29
 
 **langgraph**：从[langgraph介绍推文](https://mp.weixin.qq.com/s/XhFbLTLcSjDj0r3KGT9EOg)学习langgraph概念
 
-**Agentic Design Patterns**: 学习Chapter 8: Memory Management (记忆管理)： 标短期和长期记忆管理，维持上下文连续性
+**《Agentic Design Patterns》**: 学习Chapter 8: Memory Management (记忆管理)： 标短期和长期记忆管理，维持上下文连续性
 
-**Agentic Design Patterns**: 学习Chapter 10: Model Context Protocol (模型上下文协议)： 标准化交互协议，规范智能体通信方式。补充学习资料[Function Calling & MCP](https://blog.csdn.net/m0_59163425/article/details/147232157)
+**《Agentic Design Patterns》**: 学习Chapter 10: Model Context Protocol (模型上下文协议)： 标准化交互协议，规范智能体通信方式。补充学习资料[Function Calling & MCP](https://blog.csdn.net/m0_59163425/article/details/147232157)
 
 # 2025-12-25
 
@@ -20,16 +31,17 @@
 
 **prompt**：学习AI Prompt Engineering Course
 
-**Agentic Design Patterns**: 学习Chapter 3: Parallelization(并行化)： 并发执行与性能提升，同时执行多个独立任务
+**《Agentic Design Patterns》**: 学习Chapter 3: Parallelization(并行化)： 并发执行与性能提升，同时执行多个独立任务
 
-**Agentic Design Patterns**: 学习Chapter 4: Reflection(反思)： 并自我评估和迭代改进，通过反馈循环优化输出质量
+**《Agentic Design Patterns》**: 学习Chapter 4: Reflection(反思)： 并自我评估和迭代改进，通过反馈循环优化输出质量
 
 # 2025-12-22
+
 **AI Agent**：参考[从零开始搭建一个属于自己的Agent](https://zhuanlan.zhihu.com/p/1922809649868022076), 写了一个简单Agent demo, [alex-first-Agent](https://github.com/ImNWL/alex-first-Agent.git)
 
-**Agentic Design Patterns**: 学习Chapter 1: Prompt Chaining(提示链)： 分而治之的任务分解模式，将复杂任务分解为处理流水线
+**《Agentic Design Patterns》**: 学习Chapter 1: Prompt Chaining(提示链)： 分而治之的任务分解模式，将复杂任务分解为处理流水线
 
-**Agentic Design Patterns**: 学习Chapter 2: Routing(路由)： 智能决策与动态分发，根据情境选择最佳行动路径
+**《Agentic Design Patterns》**: 学习Chapter 2: Routing(路由)： 智能决策与动态分发，根据情境选择最佳行动路径
 
 # 2025-07-21
 
